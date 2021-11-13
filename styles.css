@@ -73,4 +73,13 @@ img{
 	width: 80px;
 	padding: 0px;
 }
+<<<<<<< HEAD
 >>>>>>> 0e769eeb4af65dd14b99ad5eeabbf0520650d8be
+=======
+
+@media screen and (max-width:1000px) {
+	body{
+		background-color: #04AA6D;
+	}
+  }
+>>>>>>> 4f51fd0ba43b3266c904988acff2a90e59f396ee
