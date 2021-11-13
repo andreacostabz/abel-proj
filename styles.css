@@ -77,10 +77,11 @@ img{
 		background-color: #04AA6D;
 	}
   }
-  
+
   #main-text {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	flex-flow: flex-start;
 }
+s
