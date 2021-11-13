@@ -91,3 +91,17 @@ img{
 p {
 	font-size: 1rem;
 }
+
+.footer{
+	float: right;
+	display: block;
+	color: black;
+	text-align: center;
+	
+	text-decoration: none;
+	font-size: 20px;
+	padding-right: 600px;
+	box-sizing: border-box;
+	border: 2px solid black;
+	width: 100%;
+}
