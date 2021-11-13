@@ -3,6 +3,11 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: flex-end;
+	margin-right: 20px;
+	word-spacing: 18px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-weight: bold;
+	font-size: larger;
 }
 
 a {
