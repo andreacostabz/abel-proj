@@ -58,6 +58,7 @@ body {
 	  margin-bottom: 22px;
   }
 
+
   iframe {
     width: 700px;
     height: 500px;
@@ -77,10 +78,14 @@ img{
 		background-color: #04AA6D;
 	}
   }
-
+  
   #main-text {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	flex-flow: flex-start;
+	flex-flow: center;
+}
+
+p {
+	font-size: 1rem;
 }
