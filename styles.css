@@ -58,6 +58,9 @@ body {
 	  margin-bottom: 22px;
   }
 
-  iframe{
-	  
-  }
+  iframe {
+    width: 700px;
+    height: 500px;
+	margin-left: 500px;
+    background-color: #777;
+}
